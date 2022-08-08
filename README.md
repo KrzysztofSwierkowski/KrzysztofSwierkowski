@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Parking reservation for an employee**
 
-- 🌱 I’m currently learning **Java, Hibernate**
+- 🌱 I’m currently learning **Java, Flutter, Dart, SQL**
 
 - 📫 How to reach me **swierkowski.k@gmail.com**
 
