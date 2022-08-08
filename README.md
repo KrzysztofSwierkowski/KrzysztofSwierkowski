@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Krzysztof</h1>
 <h3 align="center">Beginner programming passionate</h3>
 
-- 🔭 I’m currently working on **Parking reservation for an employee**
+- 🔭 I’m currently working on **PartBase - Database for elements using for automotive car parts**
 
 - 🌱 I’m currently learning **Java, Flutter, Dart, SQL**
 
